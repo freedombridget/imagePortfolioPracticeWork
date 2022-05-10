@@ -1,0 +1,154 @@
+    body {
+        background-color: ivory;
+    }
+    
+    img {
+        text-align: right;
+        position: absolute;
+        right: 23%;
+        top: 0%;
+        width: 400px;
+        height: 500px;
+        border: whitesmoke;
+    }
+    
+    h1 {
+        position: absolute;
+        right: 61%;
+        top: 10%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 30px;
+        text-shadow: whitesmoke;
+    }
+    
+    h6 {
+        position: absolute;
+        right: 67%;
+        font-family: 'Roboto', sans-serif;
+        top: 5%;
+        text-shadow: whitesmoke;
+    }
+    
+    p {
+        position: absolute;
+        right: 57%;
+        font-family: initial;
+        font-size: 80%;
+        position: absolute;
+        top: 20%;
+        text-shadow: whitesmoke;
+    }
+    
+    .exp {
+        position: absolute;
+        right: 66%;
+        font-family: sans-serif;
+        top: 42%;
+        right: 70.5%;
+        font-size: 60%;
+        text-shadow: rgb(250, 247, 247);
+    }
+    
+    .paypay {
+        position: absolute;
+        right: 66%;
+        font-family: sans-serif;
+        top: 49%;
+        right: 66%;
+        font-size: 60%;
+        text-shadow: rgb(250, 247, 247);
+    }
+    
+    .sir {
+        position: absolute;
+        right: 66%;
+        font-family: sans-serif;
+        top: 51%;
+        right: 62.5%;
+        font-size: 60%;
+        text-shadow: rgb(250, 247, 247);
+    }
+    
+    .project {
+        position: absolute;
+        right: 66%;
+        font-family: sans-serif;
+        top: 55%;
+        right: 71.25%;
+        font-size: 60%;
+        text-shadow: rgb(250, 247, 247);
+    }
+    
+    .proContent {
+        position: absolute;
+        right: 66%;
+        font-family: sans-serif;
+        top: 58%;
+        right: 59%;
+        font-size: 59%;
+        text-shadow: rgb(250, 247, 247);
+    }
+    
+    #sub {
+        text-align: center;
+        font-size: 68%;
+        position: absolute;
+        top: 40%;
+        left: 25%;
+        color: black;
+        text-shadow: whitesmoke;
+    }
+    
+    .first1,
+    .first2,
+    .first3,
+    .first4 {
+        color: black;
+    }
+    
+    #first {
+        position: absolute;
+        left: 5%;
+        position: absolute;
+        top: 10%;
+        text-shadow: whitesmoke;
+    }
+    
+    .next1,
+    .next2,
+    .next3 {
+        color: black;
+    }
+    
+    #next {
+        position: absolute;
+        right: 15%;
+        position: absolute;
+        top: 63%;
+        text-shadow: whitesmoke;
+    }
+    
+    .button {
+        text-align: center;
+        text-shadow: rgb(247, 248, 245);
+        position: absolute;
+        bottom: 10%;
+        left: 47%;
+        font-size: 80%;
+        width: 9%;
+        height: 4%;
+        color: white;
+        background-color: rgb(89, 245, 154);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        border: lightgreen;
+    }
+    
+    #menu {
+        position: absolute;
+        left: 5%;
+    }
+    
+    #search {
+        position: absolute;
+        right: 17%;
+    }
